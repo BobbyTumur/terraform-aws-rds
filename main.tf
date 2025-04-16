@@ -6,7 +6,7 @@ provider "aws" {
 
   default_tags {
     tags = {
-      HashiCorpLearnTutorial = "no-code-modules"
+      HashiCorpLearnTutorial = "no-code-provisioning"
     }
   }
 }
